@@ -1,9 +1,9 @@
 {
-  "version":"3.8.5",
-  "url":"https://github.com/machariabmw/POS_BackOffice_Update/releases/download/v3.8.3/Ray-Mac.BackOffice.3.8.5.exe",
+  "version":"3.8.5.100",
+  "url":"https://github.com/machariabmw/POS_BackOffice_Update/releases/download/v3.8.3/Ray-Mac.BackOffice.3.8.5.100.exe",
   "notes": [
-    "Resolved Sale Returns Buy",
+    "Resolved Sale Returns",
     "Introduced Stock Auto-Capture",
-    "Added Better System Gen Item Codes"
+    "Added New System Gen Item Codes"
   ]
 }
