@@ -4,6 +4,8 @@
   "notes": [
     "Resolved Barcode Label Printing During Invoicing",
     "Added Last Stock-Value (Periodic)",
-    "Introduced Integrated Branches + HQ Identifiers"
+    "Introduced Integrated Branches + HQ Identifiers",
+    "Resolved Windows Hello (Sign In & User Accounts Mapping)",
+    "NB::WINDOWS HELLO IS ONLY FOR USABLE ON DEVICES THAT SUPPORT IT!"
   ]
 }
