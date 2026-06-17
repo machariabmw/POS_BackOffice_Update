@@ -2,9 +2,9 @@
   "version":"3.8.5.200",
   "url":"https://github.com/machariabmw/POS_BackOffice_Update/releases/download/v3.8.3/Ray-Mac.BackOffice.3.8.5.200.exe",
   "notes": [
-    "Resolved Barcode Label Printing During Invoicing",
-    "Added Last Stock-Value (Periodic)",
-    "Introduced Integrated Branches + HQ Identifiers",
+    "Added Save Zebra Printer Config (Size)",
+    "Solved Stock Transfer Bug",
+    "Refactored Batch & Expiry Reports",
     "Resolved Windows Hello (Sign In & User Accounts Mapping)",
     "NB::WINDOWS HELLO IS ONLY FOR USABLE ON DEVICES THAT SUPPORT IT!"
   ]
