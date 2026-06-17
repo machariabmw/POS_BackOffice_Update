@@ -1,6 +1,6 @@
 {
-  "version":"3.8.5.200",
-  "url":"https://github.com/machariabmw/POS_BackOffice_Update/releases/download/v3.8.3/Ray-Mac.BackOffice.3.8.5.200.exe",
+  "version":"3.8.5.300",
+  "url":"https://github.com/machariabmw/POS_BackOffice_Update/releases/download/v3.8.3/Ray-Mac.BackOffice.3.8.5.300.exe",
   "notes": [
     "Added Save Zebra Printer Config (Size)",
     "Solved Stock Transfer Bug",
