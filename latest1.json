@@ -1,11 +1,9 @@
 {
-  "version":"3.8.5.300",
-  "url":"https://github.com/machariabmw/POS_BackOffice_Update/releases/download/v3.8.3/Ray-Mac.BackOffice.3.8.5.300.exe",
+  "version":"3.8.5.310",
+  "url":"https://github.com/machariabmw/POS_BackOffice_Update/releases/download/v3.8.3/Ray-Mac.BackOffice.3.8.5.310.exe",
   "notes": [
-    "Added Save Zebra Printer Config (Size)",
-    "Solved Stock Transfer Bug",
-    "Refactored Batch & Expiry Reports",
+    "Improved Opening & closing Balance(s) Feeder For Speed & Optimization",
     "Resolved Windows Hello (Sign In & User Accounts Mapping)",
-    "NB::WINDOWS HELLO IS ONLY FOR USABLE ON DEVICES THAT SUPPORT IT!"
+    "NB::WINDOWS HELLO IS ONLY USABLE ON DEVICES THAT SUPPORT IT!"
   ]
 }
