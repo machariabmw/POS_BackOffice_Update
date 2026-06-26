@@ -1,9 +1,10 @@
 {
-  "version":"3.8.5.310",
-  "url":"https://github.com/machariabmw/POS_BackOffice_Update/releases/download/v3.8.3/Ray-Mac.BackOffice.3.8.5.310.exe",
+  "version":"3.8.5.400",
+  "url":"https://github.com/machariabmw/POS_BackOffice_Update/releases/download/v3.8.3/Ray-Mac.BackOffice.3.8.5.400.exe",
   "notes": [
-    "Improved Opening & closing Balance(s) Feeder For Speed & Optimization",
-    "Resolved Windows Hello (Sign In & User Accounts Mapping)",
-    "NB::WINDOWS HELLO IS ONLY USABLE ON DEVICES THAT SUPPORT IT!"
+    "Added Products Expiry Auto-Checker & Reporter",
+    "Resolved Customers Debt Clearance Bug",
+    "Resolved the Barcode Printing Bug in Invoicing",
+    "Optimized Item Creation"
   ]
 }
