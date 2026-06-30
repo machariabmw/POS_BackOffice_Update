@@ -1,10 +1,9 @@
 {
-  "version":"3.8.5.400",
-  "url":"https://github.com/machariabmw/POS_BackOffice_Update/releases/download/v3.8.3/Ray-Mac.BackOffice.3.8.5.400.exe",
+  "version":"3.8.5.410",
+  "url":"https://github.com/machariabmw/POS_BackOffice_Update/releases/download/v3.8.3/Ray-Mac.BackOffice.3.8.5.410.exe",
   "notes": [
-    "Added Products Expiry Auto-Checker & Reporter",
+    "Introduced Daily Sales Filter by Session",
     "Resolved Customers Debt Clearance Bug",
-    "Resolved the Barcode Printing Bug in Invoicing",
-    "Optimized Item Creation"
+    "Introduced OTP For Credit Sales Deletion"
   ]
 }
