@@ -1,9 +1,12 @@
 {
-  "version":"3.8.5.410",
-  "url":"https://github.com/machariabmw/POS_BackOffice_Update/releases/download/v3.8.3/Ray-Mac.BackOffice.3.8.5.410.exe",
+  "version":"3.8.5.420",
+  "url":"https://github.com/machariabmw/POS_BackOffice_Update/releases/download/v3.8.3/Ray-Mac.BackOffice.3.8.5.420.exe",
   "notes": [
-    "Introduced Daily Sales Filter by Session",
-    "Resolved Customers Debt Clearance Bug",
-    "Introduced OTP For Credit Sales Deletion"
+    "Introduced More Barcode Printing Sizes",
+    "Single (40mm*29mm, 50mm*25mm, 50mm*40mm, 58mm*40mm, 70mm*40mm)",
+    "Double (58mm * 27mm)",
+    "Introduced Invoice Restoration for Lost Invoices",
+    "Resolved Invoice Items Find By Category / Supplier",
+    "Introduced Daily Sales Summary Filter By Sessions"
   ]
 }
