@@ -1,13 +1,9 @@
 {
-  "version":"3.8.5.420",
-  "url":"https://github.com/machariabmw/POS_BackOffice_Update/releases/download/v3.8.3/Ray-Mac.BackOffice.3.8.5.420.exe",
+  "version":"3.8.5.440",
+  "url":"https://github.com/machariabmw/POS_BackOffice_Update/releases/download/v3.8.3/Ray-Mac.BackOffice.3.8.5.440.exe",
   "notes": [
-    "Introduced More Barcode Printing Sizes",
-    "Single (40mm*29mm, 50mm*25mm, 50mm*40mm, 58mm*40mm, 70mm*40mm)",
-    "Double (58mm * 27mm)",
-    "Introduced the XP-330B Barcode Printer Alongside XP-470B",
-    "Introduced Invoice Restoration for Lost Invoices",
-    "Resolved Invoice Items Find By Category / Supplier",
-    "Introduced Daily Sales Summary Filter By Sessions"
+    "Introduced Complimentary Accounts Creation",
+    "Added The Reference For Credited Bills in Daily Sales Summary",
+    "Added Complimentary Reporting For Bills"
   ]
 }
