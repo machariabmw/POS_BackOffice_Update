@@ -1,7 +1,9 @@
 {
-  "version":"3.8.5.500",
-  "url":"https://github.com/machariabmw/POS_BackOffice_Update/releases/download/v3.8.3/RayMacBackOfficeSetup.exe",
+  "version":"3.8.5.510",
+  "url":"https://github.com/machariabmw/POS_BackOffice_Update/releases/download/v3.8.3/Ray-MacBackOfficeSetup3.8.5.510.exe",
   "notes": [
+    "SOLVED INVOICING BUG FOR QTY COLUMN LOCK",
+    " ",
     "Optimized Stock Adjust Tool & Added After Save Printing",
     "Enhanced Responsiveness for View Stock Products + History Sidebar",
     "Introduced Transactional History Printing in Item History View",
@@ -9,6 +11,7 @@
     "Added After Save (Push to Pay Supplier) for invoicing",
     "Added Product Cloning (Fast Item Creation For Similar Products)",
     "Locked Deletion of Items With Existing Transaction History",
+    " ",
     " ------------------MOST IMPORTANTLY--------------------",
     "SYSTEM NOW CAPTURES ALL BACKOFFICE USER ACTIVITY FOR AUDIT PURPOSES"
   ]
