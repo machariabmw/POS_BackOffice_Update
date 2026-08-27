@@ -1,6 +1,6 @@
 {
-  "version":"3.8.5.460",
-  "url":"https://github.com/machariabmw/POS_BackOffice_Update/releases/download/v3.8.3/Ray-Mac.BackOffice.3.8.5.460.exe",
+  "version":"3.8.5.500",
+  "url":"https://github.com/machariabmw/POS_BackOffice_Update/releases/download/v3.8.3/Ray-Mac.BackOffice.3.8.5.500.exe",
   "notes": [
     "Refactored Invoice Crediting Bug",
     "Added Cash-Flow Report Summary Print to Zebra",
