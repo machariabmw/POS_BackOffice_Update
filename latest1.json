@@ -1,19 +1,13 @@
 {
-  "version":"3.8.5.510",
-  "url":"https://github.com/machariabmw/POS_BackOffice_Update/releases/download/v3.8.3/Ray-MacBackOfficeSetup3.8.5.510.exe",
+  "version":"3.8.5.520",
+  "url":"https://github.com/machariabmw/POS_BackOffice_Update/releases/download/v3.8.3/Ray-MacBackOfficeSetup3.8.5.520.exe",
 
   "notes": [
-    "SOLVED INVOICING BUG FOR QTY COLUMN LOCK",
-    " ",
-    "Optimized Stock Adjust Tool & Added After Save Printing",
-    "Enhanced Responsiveness for View Stock Products + History Sidebar",
-    "Introduced Transactional History Printing in Item History View",
-    "Locked Purchasing using Future Dates",
-    "Added After Save (Push to Pay Supplier) for invoicing",
-    "Added Product Cloning (Fast Item Creation For Similar Products)",
-    "Locked Deletion of Items With Existing Transaction History",
+    "Includes Both Stock Adjustment & Stock Take Panels",
+    "Rearranged the BackOffice Menu Layout ",
+    "Refactored the GRN Printing Truncation",
     " ",
     " ------------------MOST IMPORTANTLY--------------------",
-    "SYSTEM NOW CAPTURES ALL BACKOFFICE USER ACTIVITY FOR AUDIT PURPOSES"
+    "Now With RayMac System Future Predictions for Your Business"
   ]
 }
