@@ -1,13 +1,9 @@
 {
-  "version":"3.8.5.550",
-  "url":"https://github.com/machariabmw/POS_BackOffice_Update/releases/download/v3.8.3/Ray-MacBackOfficeSetup3.8.5.550.exe",
+  "version":"3.8.5.560",
+  "url":"https://github.com/machariabmw/POS_BackOffice_Update/releases/download/v3.8.3/Ray-MacBackOfficeSetup3.8.5.560.exe",
 
   "notes": [
-    "Includes Both Stock Adjustment & Stock Take Panels",
-    "Rearranged the BackOffice Menu Layout ",
-    "Refactored the GRN Printing Truncation",
-    " ",
-    " ------------------MOST IMPORTANTLY--------------------",
-    "Now With RayMac System Future Predictions for Your Business"
+    "Now Optimizes All Logos & Product Images For Speedy Searches",
+    "Includes the eTIMS Tax Submission Breakdown"
   ]
 }
