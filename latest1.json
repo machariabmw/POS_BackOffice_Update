@@ -1,11 +1,10 @@
 {
-  "version":"3.8.5.600",
-  "url":"https://github.com/machariabmw/POS_BackOffice_Update/releases/download/v3.8.3/Ray-MacBackOfficeSetup3.8.5.600.exe",
+  "version":"3.8.5.610",
+  "url":"https://github.com/machariabmw/POS_BackOffice_Update/releases/download/v3.8.3/Ray-MacBackOfficeSetup3.8.5.610.exe",
 
   "notes": [
-    "Now Optimizes All Logos & Product Images For Speedy Searches",
     "Includes the eTIMS Tax Submission Breakdown",
-    "Solves Invoice Entry Level Price Tags Printing",
+    "Added Invoice Lock for Difference of (+/-) 1/=",
     "Added Weight for All Products",
     "Added Departmental Stock Transfers",
     "Added Bulk Items Printing",
