@@ -1,12 +1,13 @@
 {
-  "version":"3.8.5.700",
-  "url":"https://github.com/machariabmw/POS_BackOffice_Update/releases/download/v3.8.3/Ray-MacBackOfficeSetup3.8.5.700.exe",
+  "version":"3.8.5.710",
+  "url":"https://github.com/machariabmw/POS_BackOffice_Update/releases/download/v3.8.3/Ray-MacBackOfficeSetup3.8.5.710.exe",
 
   "notes": [
     "Added Bulk Items Printing",
     "Introduced The Expense Capturing Panels",
     "Introduced Loyalty History Report",
     "Introduced Inventory Monitoring Panel",
-    "Refactored The PDF Reports For Optimized Generation"
+    "Refactored The PDF Reports For Optimized Generation",
+    "Enabled Double Click on User Activity Audit to View Detailed StockAdjustments"
   ]
 }
